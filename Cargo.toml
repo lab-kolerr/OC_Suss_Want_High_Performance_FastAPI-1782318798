@@ -1,0 +1,8 @@
+[package]
+name = "my_rust_api"
+version = "1.0.0"
+description = "api backend API"
+
+[dependencies]
+actix-web = "4.0"
+bcrypt = "0.10"
